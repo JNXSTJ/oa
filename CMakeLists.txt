@@ -20,3 +20,7 @@ add_subdirectory(./test)
 add_subdirectory(./example)
 
 add_subdirectory(./oa)
+
+add_subdirectory(./codeforces)
+
+add_subdirectory(./sfjs)
