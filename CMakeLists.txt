@@ -24,3 +24,5 @@ add_subdirectory(./oa)
 add_subdirectory(./codeforces)
 
 add_subdirectory(./sfjs)
+
+add_subdirectory(./uva)
